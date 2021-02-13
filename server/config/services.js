@@ -7,7 +7,7 @@ module.exports = {
   },
   service2: {
     api: '/rooms/:propertyId/reviews',
-    url: 'http://52.8.16.106',
+    url: 'http://13.57.25.54',
     bundle: 'bundle.js',
   },
   service3: {
